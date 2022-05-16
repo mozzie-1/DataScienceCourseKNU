@@ -41,6 +41,7 @@ print (x)
  [73] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
  [85] TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE TRUE
  [97] TRUE TRUE TRUE TRUE
+
 -------------------------------------------------------------------------------
 3. Створити наступну матрицю за допомогою matrix, та за допомогою cbind
 або rbind
@@ -85,7 +86,9 @@ print (x)
  
 [[5]] 
 [1] 1+4i
+
 --------------------------------------------------------------------------
+
 5. Створити фактор з трьома рівнями «baby», «child», «adult».
 
 > x <- factor(c("baby", "child", "adult", "baby", "child", "adult", "baby"))
