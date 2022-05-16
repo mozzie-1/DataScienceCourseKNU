@@ -107,8 +107,9 @@ Levels: adult baby child
 
 > x <- c(1, 2, 3, 4, NA, 5, 6, 7, NA, 9, NA, 11)
 
-> which(is.na(x)) 
-[1]  5  9 11
+match(NA,x)
+[1] 5
+
 
 > sum(is.na(x)) 
 [1] 3
