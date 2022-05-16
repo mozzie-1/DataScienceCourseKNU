@@ -11,18 +11,23 @@
 > u <- 10-3i
 > 
 > class(x) 
+> 
 [1] "numeric" 
 
 > class(y) 
+> 
 [1] "integer"
 
 > class(z) 
+> 
 [1] "logical" 
 
 > class(t) 
+> 
 [1] "character" 
 
 > class(u) 
+> 
 [1] "complex"
 
 -------------------------------------------
